@@ -6,5 +6,6 @@
 
 [ライセンスファイル](/LICENSE)
 
+```text
 Copyright 2025 223n<223n@223n.tech>
- 
+``` 
