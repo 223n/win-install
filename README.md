@@ -5,3 +5,6 @@
 # License
 
 [ライセンスファイル](/LICENSE)
+
+Copyright 2025 223n<223n@223n.tech>
+ 
