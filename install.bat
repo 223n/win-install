@@ -62,6 +62,11 @@ winget install --id Valve.Steam --source winget
 winget install --id KeePassXCTeam.KeePassXC --source winget
 
 @echo "--------------------------------------------------------------"
+@echo "install mailer"
+@echo "--------------------------------------------------------------"
+winget install --id Mozilla.Thunderbird.ja --source winget
+
+@echo "--------------------------------------------------------------"
 @echo "update"
 @echo "--------------------------------------------------------------"
 winget upgrade --all
