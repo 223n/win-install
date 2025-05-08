@@ -67,6 +67,11 @@ winget install --id KeePassXCTeam.KeePassXC --source winget
 winget install --id Mozilla.Thunderbird.ja --source winget
 
 @echo "--------------------------------------------------------------"
+@echo "install WinSCP"
+@echo "--------------------------------------------------------------"
+winget install --id WinSCP.WinSCP --source winget
+
+@echo "--------------------------------------------------------------"
 @echo "update"
 @echo "--------------------------------------------------------------"
 winget upgrade --all
