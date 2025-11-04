@@ -14,6 +14,7 @@ wsl --install debian
 @echo "--------------------------------------------------------------"
 winget install --id Docker.DockerDesktop --source winget
 winget install --id Oracle.VirtualBox --source winget
+winget install --id Hashicorp.Vagrant --source winget
 winget install --id Microsoft.Git --source winget
 winget install --id Microsoft.VisualStudioCode --source winget
 winget install --id Atlassian.Sourcetree --source winget
